@@ -32,3 +32,9 @@ The app provides an all-in-one digital survival toolkit that works even in remot
 ->  Interface of Weather Monitor :
 <img width="1863" height="929" alt="Screenshot 2025-09-05 172342" src="https://github.com/user-attachments/assets/b414ac82-b3c3-4751-8304-a29c3873e9c1" />
 
+### just run the following commands : 
+#### Install dependencies
+npm install
+#### Start development server
+npm start
+
