@@ -35,7 +35,7 @@ The app provides an all-in-one digital survival toolkit that works even in remot
 ## just run the following commands : 
 
 
-### ->  Install dependencies & Start development server :
+### ->  Install dependencies & Start development server:
 ```bash
 npm install
 npm run dev
