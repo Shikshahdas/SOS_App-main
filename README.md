@@ -23,4 +23,9 @@ The app provides an all-in-one digital survival toolkit that works even in remot
 
 🔋 Battery monitor <br>
 ⚡ Power-saving mode
-### Here are some samples attached :
+### Here are some picture's of the Interface :
+<img width="1845" height="932" alt="Screenshot 2025-09-05 172230" src="https://github.com/user-attachments/assets/d05131e2-f73a-44a4-898d-70610ab4bd01" />
+->  Interface of Emergency Flashlight :
+<img width="1868" height="938" alt="Screenshot 2025-09-05 172246" src="https://github.com/user-attachments/assets/10a7dd84-5c27-489c-88c9-9b50eab987c2" />
+->  Interface of Emergency Supplies :
+<img width="1863" height="924" alt="Screenshot 2025-09-05 172324" src="https://github.com/user-attachments/assets/194d5da2-9ae2-48a4-8de4-3805d48f8ded" />
