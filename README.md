@@ -29,3 +29,6 @@ The app provides an all-in-one digital survival toolkit that works even in remot
 <img width="1868" height="938" alt="Screenshot 2025-09-05 172246" src="https://github.com/user-attachments/assets/10a7dd84-5c27-489c-88c9-9b50eab987c2" />
 ->  Interface of Emergency Supplies :
 <img width="1863" height="924" alt="Screenshot 2025-09-05 172324" src="https://github.com/user-attachments/assets/194d5da2-9ae2-48a4-8de4-3805d48f8ded" />
+->  Interface of Weather Monitor :
+<img width="1863" height="929" alt="Screenshot 2025-09-05 172342" src="https://github.com/user-attachments/assets/b414ac82-b3c3-4751-8304-a29c3873e9c1" />
+
