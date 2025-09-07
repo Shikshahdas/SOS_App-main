@@ -1,5 +1,5 @@
 # SOS-Alert App🚨
-## 🔹Overview :
+## 🔹Overview 
 OneTap SOS is a professional-grade emergency response system designed for quick access to critical survival tools. With a single tap, users can activate SOS protocols, share their location, access survival resources, and manage emergency supplies.
 
 The app provides an all-in-one digital survival toolkit that works even in remote conditions.
